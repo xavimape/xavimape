@@ -22,12 +22,12 @@ Trabajo como analista SOC en la Dirección de Ciberdefensa del Ejército Argenti
 
 Cuando escucho "AES es seguro" o "ese protocolo es vulnerable", necesito ver por qué. Por eso construyo laboratorios y herramientas propias en vez de quedarme con la teoría — **verificalo vos mismo** es la idea que atraviesa todo lo que hago.
 
-- 🔐 **Ciberdefensa operativa:** SOC, Blue Team, análisis de protocolos de red, detección y triage
-- 🔬 **Criptografía aplicada:** AES, ASCON, ChaCha20, hashing — desde sus internos algorítmicos, no solo la teoría
-- 🛠 **Desarrollo de herramientas de seguridad:** full-stack (TypeScript/Python) y de escritorio (PySide6)
-- 📊 **Análisis de datos:** SQL, Excel avanzado, Power BI, GenAI aplicada
+- **Ciberdefensa operativa:** SOC, Blue Team, análisis de protocolos de red, detección y triage
+- **Criptografía aplicada:** AES, ASCON, ChaCha20, hashing — desde sus internos algorítmicos, no solo la teoría
+- **Desarrollo de herramientas de seguridad:** full-stack (TypeScript/Python) y de escritorio (PySide6)
+- **Análisis de datos:** SQL, Excel avanzado, Power BI, GenAI aplicada
 
-### 🚀 Proyectos
+### Proyectos
 
 | Proyecto | Qué hace | Stack |
 |---|---|---|
@@ -40,7 +40,7 @@ Cuando escucho "AES es seguro" o "ese protocolo es vulnerable", necesito ver por
 
 Todos son open source (MIT). Más detalle de cada uno en mi [portfolio](https://xavimape.github.io/xavimape-porfolio/proyectos).
 
-### 🧠 Cómo trabajo
+### Cómo trabajo
 
 Investigar → Documentar → Construir → Enseñar → Mejorar
 
