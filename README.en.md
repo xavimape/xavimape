@@ -22,12 +22,12 @@ I work as a SOC analyst at the Argentine Army's Cyberdefense Directorate: monito
 
 When I hear "AES is secure" or "that protocol is vulnerable," I need to see why. That's why I build my own labs and tools instead of stopping at theory — **verify it yourself** is the idea running through everything I do.
 
-- 🔐 **Operational cyberdefense:** SOC, Blue Team, network protocol analysis, detection and triage
-- 🔬 **Applied cryptography:** AES, ASCON, ChaCha20, hashing — down to the algorithmic internals, not just the theory
-- 🛠 **Security tool development:** full-stack (TypeScript/Python) and desktop (PySide6)
-- 📊 **Data analysis:** SQL, advanced Excel, Power BI, applied GenAI
+- **Operational cyberdefense:** SOC, Blue Team, network protocol analysis, detection and triage
+- **Applied cryptography:** AES, ASCON, ChaCha20, hashing — down to the algorithmic internals, not just the theory
+- **Security tool development:** full-stack (TypeScript/Python) and desktop (PySide6)
+- **Data analysis:** SQL, advanced Excel, Power BI, applied GenAI
 
-### 🚀 Projects
+### Projects
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -40,7 +40,7 @@ When I hear "AES is secure" or "that protocol is vulnerable," I need to see why.
 
 All open source (MIT). More detail on each one in my [portfolio](https://xavimape.github.io/xavimape-porfolio/proyectos).
 
-### 🧠 How I work
+### How I work
 
 Research → Document → Build → Teach → Improve
 
