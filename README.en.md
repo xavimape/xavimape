@@ -31,6 +31,7 @@ When I hear "AES is secure" or "that protocol is vulnerable," I need to see why.
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**OT-ICS_Cybersecurity_Lab**](https://github.com/xavimape/OT-ICS_Cybersecurity_Lab) | Educational OT/ICS cybersecurity lab: industrial protocols (Modbus TCP, with DNP3, OPC UA, IEC 60870-5-104, PROFINET, EtherNet/IP coming next) with interactive simulators, detection (Suricata/Sigma), and MITRE ATT&CK for ICS mapping | HTML/CSS/JS, 100% client-side, bilingual |
 | [**protocolos-red-soc**](https://github.com/xavimape/protocolos-red-soc) | Interactive lab covering 9 network protocols (DNS, HTTP/HTTPS, TCP, UDP, DHCP, SMB, FTP, SSH, TLS/SSL): how they work, where they get attacked, how to detect it | HTML5 / CSS3 / JS ES6, 100% client-side |
 | [**MetaView-Pro**](https://github.com/xavimape/MetaView-Pro) | EXIF/IPTC/XMP metadata inspector/editor with raster integrity verification and automatic rollback | TypeScript (Express/React), Python/PySide6 |
 | [**criptografia-simetrica**](https://github.com/xavimape/criptografia-simetrica) | Lab covering AES-256-GCM, ASCON-128, ChaCha20-Poly1305, and hashing, with SOC/DFIR operational context | JavaScript, 100% client-side |

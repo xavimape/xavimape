@@ -31,6 +31,7 @@ Cuando escucho "AES es seguro" o "ese protocolo es vulnerable", necesito ver por
 
 | Proyecto | Qué hace | Stack |
 |---|---|---|
+| [**OT-ICS_Cybersecurity_Lab**](https://github.com/xavimape/OT-ICS_Cybersecurity_Lab) | Laboratorio educativo de ciberseguridad OT/ICS: protocolos industriales (Modbus TCP y próximamente DNP3, OPC UA, IEC 60870-5-104, PROFINET, EtherNet/IP) con simuladores interactivos, detección (Suricata/Sigma) y mapeo a MITRE ATT&CK for ICS | HTML/CSS/JS, 100% client-side, bilingüe |
 | [**protocolos-red-soc**](https://github.com/xavimape/protocolos-red-soc) | Laboratorio interactivo de 9 protocolos de red (DNS, HTTP/HTTPS, TCP, UDP, DHCP, SMB, FTP, SSH, TLS/SSL): cómo funcionan, dónde atacan, cómo se detecta | HTML5 / CSS3 / JS ES6, 100% client-side |
 | [**MetaView-Pro**](https://github.com/xavimape/MetaView-Pro) | Inspector/editor de metadatos EXIF/IPTC/XMP con verificación de integridad ráster y rollback automático | TypeScript (Express/React), Python/PySide6 |
 | [**criptografia-simetrica**](https://github.com/xavimape/criptografia-simetrica) | Laboratorio de AES-256-GCM, ASCON-128, ChaCha20-Poly1305 y hashing, con contexto operativo SOC/DFIR | JavaScript, 100% client-side |
